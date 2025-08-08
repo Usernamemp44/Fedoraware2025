@@ -36,7 +36,7 @@ A free and open-source training software for Team Fortress 2, based on [SE-Owned
 - [Playing as Michael Jackson (by km)](https://www.youtube.com/watch?v=cVD3BBEMNPo)
 
 ## Credits to
-
+- [Rei](https://github.com/rei-2)
 - [spook953](https://github.com/spook953)
 - [Lak3](https://github.com/Lak3)
 - [Baan](https://github.com/xxmyn)
